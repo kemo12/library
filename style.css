@@ -1,5 +1,5 @@
 body {
-  background-color: #6CC4C6;
+  background-color: #dd551f;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@ h1 {
 }
 
 .displayBook {
-  background-color: #202125;
+  background-color: #926e3e;
   border-radius: 10px;
   width: 218px;
   height: 287px;
@@ -43,11 +43,11 @@ h1 {
 
 form {
   display: none;
-  width: 150px;
+  width:200px;
   margin: auto;
   margin-top: 25px;
   left: 40%;
-  background-color: #202125;
+  background-color: #eb7d3d;
   padding: 5px;
   transform: scale(2);
   z-index: 2;
@@ -66,7 +66,7 @@ input {
   margin: auto;
   color: #202125;
   border-radius: 5px;
-  background-color:#6CC4C6;
+  background-color:#ca7e5a;
   margin-left: 40px;
   margin-top: 10px;
 }
@@ -106,7 +106,7 @@ input {
   border: 1px solid;
   color: #FFFAE2;
   border-radius: 5px;
-  background-color:#4C8F90
+  background-color:#db5b28
 
 }
 
